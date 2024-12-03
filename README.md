@@ -44,13 +44,17 @@ The package requires the following packages to be installed:
 
 ## Citing SiPhotonics Toolkit
 
-    @software{silicon-photonics-toolkit2022github,
-        url = {https://github.com/Photonic-Architecture-Laboratories/si-photonics-toolkit},
+    @article{silicon-photonics-toolkit2023opticaopen,
         author = {Aycan Deniz Vit and Kazim Gorgulu and Ali Najjar Amiri and Emir Salih Magden},
         title = {Silicon Photonics Toolkit},
-        description = {A toolkit to rapidly lookup parameters for the design of silicon photonic components with automatic differentiation capability.},
-        year = {2022},
+        journal = {Optica Open},
+        year = {2023},
+        note = {Preprint},
+        doi = {10.1364/opticaopen.23098334.v1},
+        url = {https://doi.org/10.1364/opticaopen.23098334.v1},
+        description = {A toolkit to rapidly lookup parameters for the design of silicon photonic components with automatic differentiation capability.}
     }
+
 
 ## References
 
